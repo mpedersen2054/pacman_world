@@ -1,10 +1,3 @@
-
-# Pacman Map!
-
-looks more or less like this:
-![pacman map](http://springfiles.com/sites/default/files/images/spring/spring-maps/layoutki63.jpg)
-
-
 # Pacman Map!
 
 looks more or less like this:
